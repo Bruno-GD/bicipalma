@@ -17,4 +17,4 @@ Examen de programación DAW Dual Java de febrero de 2014, CIFP Francesc de Borja
 
 ## DDD
 
-![Diagrama de clases UML](./diagrama_clases_UML.png "Diagrama de clases UML")
+![Diagrama de clases UML](https://raw.githubusercontent.com/dfleta/bicipalma/master/diagrama_clases_UML.png "Diagrama de clases UML")
